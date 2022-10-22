@@ -38,5 +38,17 @@
       "import": "./dist/socket-methods.es.js",
       "require": "./dist/socket-methods.umd.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lurblaeser/sockets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lurblaeser/sockets/issues"
+  },
+  "homepage": "https://github.com/lurblaeser/sockets#readme",
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
   }
 }
