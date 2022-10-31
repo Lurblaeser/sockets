@@ -37,6 +37,10 @@
     ".": {
       "import": "./dist/socket-methods.es.js",
       "require": "./dist/socket-methods.umd.js"
+    },
+    "./dist/types": {
+      "import": "./dist/types.d.ts",
+      "require": "./dist/types.d.ts"
     }
   },
   "repository": {
